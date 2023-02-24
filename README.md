@@ -6,7 +6,7 @@ The set up of this plugin is simple : just download the project as zip, extract 
 # How to use the Naija number verifier (Raw php).
 
 ## step 1:
->> Download the project [Verify-Nigeria-Number]([https://](https://github.com/dannyokec/Verify-Nigeria-Number.php/archive/refs/heads/main.zip)) and extarct.
+>> Download the project [Verify-Nigeria-Number]([https://](https://github.com/dannyokec/Verify-Nigeria-Number.php/archive/refs/heads/main.zip) and extarct.
 
 ## Step 2 :
 >> Move / upload the file check.php into the same folder as the file you would be needing the verification plugin on.
